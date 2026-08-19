@@ -1,0 +1,14 @@
+{
+  "name": "مصروفي العائلي PRO",
+  "short_name": "مصروفي",
+  "description": "إدارة ومتابعة مصروفات الأسرة",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f4f6",
+  "theme_color": "#111111",
+  "icons": []
+}
